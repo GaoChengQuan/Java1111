@@ -104,6 +104,12 @@ public class For {
 			System.out.println();
 			System.out.println();
 			System.out.println();
+
+			System.out.println();
+			System.out.println();
+			for (int j = 0; j < array.length; j++) {
+				
+			}
 		}
 	}
 
